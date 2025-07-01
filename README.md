@@ -8,17 +8,17 @@ Task 2: Unemployment Analysis
 📁 Folder: Task-2:Unemployment_Analysis
 
 Task 3: Car Price Prediction
-📁 Folder: Task-3-Car-Price-Prediction
+📁 Folder: Task-3:Car_Price_Prediction
 
 Task 5: Sales Prediction
-📁 Folder: Task-5-Sales-Prediction
+📁 Folder: Task-5:Sales_Prediction
 
-Programming:
+PROGRAMMING:
   Python 3 – Core programming language for analysis and modeling
   Google Colab – Cloud-based notebook environment for writing and executing code
   Jupyter Notebook – Interactive development environment for local execution
 
-📚 Python Libraries:
+📚 PYTHON LIBRARIES:
   Pandas – Data cleaning, manipulation, and analysis
   NumPy – Numerical operations and array handling
   Matplotlib – Basic and advanced static data visualization
@@ -28,7 +28,7 @@ Programming:
     Random Forest Regressor
     Metrics: R² Score, MAE, MAPE, RMSE
 
-📊 Visualization Tools:
+📊 VISUALIZATION TOOLS:
 Line Charts – Trend analysis (e.g., unemployment over time)
 Bar Graphs – Region-wise comparisons
 Heatmaps – Correlation analysis
